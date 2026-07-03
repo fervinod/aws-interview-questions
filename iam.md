@@ -28,7 +28,7 @@
    - **Answer:** There are two main types of IAM policies:
      - **Managed Policies:** These are standalone policies that you can attach to multiple users, groups, or roles. They can be AWS managed (created and managed by AWS) or customer managed (created and managed by you).
      - **Inline Policies:** These are policies that are embedded directly into a user, group, or role. They are created and managed directly on the user, group, or role itself.
-
+     - Custom policies -- created and managed by user
 **8. What is the principle of least privilege in IAM?**
    - **Answer:** The principle of least privilege means granting the minimum level of access or permissions necessary for a user, group, or role to perform their required tasks. This reduces the potential impact of a security breach or misuse of permissions.
 
